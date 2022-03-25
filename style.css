@@ -1,0 +1,30 @@
+body {
+    font-family: 'Livvic', sans-serif;
+    color: #a6a6a6;
+}
+
+h3 {
+    font-weight: 400;
+}
+
+a {
+    text-decoration: none;
+    color: #db9284;
+}
+#signature {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    align-items: center;
+}
+
+#headshot {
+}
+
+#text {
+    margin-left: 3%;
+}
+
+#logo {
+    display: block;
+}
